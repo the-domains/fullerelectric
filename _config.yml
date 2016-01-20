@@ -1,0 +1,14 @@
+layout_spectrum: 0.3255675
+color:
+  saturation: 0.6636798
+  brandStrength: 0.7186379
+  lightness: 0.7186379
+  brandColors:
+    - '#312F01'
+    - '#BC9B91'
+    - '#AAB5FB'
+    - '#4A6E4C'
+    - '#6588D0'
+  rhythmicContrast: 1
+typography_spectrum: 0.9241338
+name: FullerElectric
